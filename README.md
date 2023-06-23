@@ -1,6 +1,6 @@
 ## Task Outline
 We are building an application for organizing students, parents and teachers in High Schools.
-The application should be built in Laravel from scratch. There will be no frontend.
+The application should be built in Laravel from scratch.
 See https://laravel.com/docs/10.x/installation
 
 
@@ -51,3 +51,7 @@ See https://laravel.com/docs/10.x/installation
 You should not spend more than 4-5 hours on this assignment. If you cannot finish everything before this time limit, simply go ahead and submit what you have. 
 
 Create a public GitHub repository and push your code, or zip up your project files and upload to WeTransfer.com. Send the link to your submission directly to l.popp@custimy.io.
+
+### Additional Notes
+If you have any questions regarding the assignment, submission or otherwise, please do not hesitate to reach out directly on email. 
+Any questions or otherwise will not count towards your final assessment.
