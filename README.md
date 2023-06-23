@@ -36,8 +36,9 @@ See https://laravel.com/docs/10.x/installation
 
 
 #### Bonus points
-- Create attributes for our various entities that a regular High School would have.
-- Create other suitable endpoints for application.
+- Create attributes for the supported entities, such as student names, grade levels etc.
+- Create other suitable endpoints for the supported entities.
+- Create other suitable entities and relationships for a High School.
 
 
 #### What not to focus on
